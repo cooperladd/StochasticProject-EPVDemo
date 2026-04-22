@@ -4,3 +4,4 @@ figure/
 *.log
 *.gz
 EPV_demo-concordance.tex
+.Rhistory
